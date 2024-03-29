@@ -41,13 +41,13 @@ I'm using HTML, CSS, and JavaScript,React,Typescript to make websites dance. ðŸ•
 ### ðŸ“« How to reach me
 
 <div display="flex">
-  <a href="https://www.linkedin.com/in/md-arif-rizvee-zishan-84baa24a/">
+  <a href="https://www.linkedin.com/in/md-arif-rizvee-zishan-84baa24a/" target='_blank'>
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://stackoverflow.com/users/2382531/zishan">
+  <a href="https://stackoverflow.com/users/2382531/zishan" target='_blank'>
     <img src="https://img.shields.io/badge/stackoverflow-%230077B5.svg?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Stackoverflow"/>
   </a>
-  <a href="https://medium.com/@bernardbad">
+  <a href="https://medium.com/@bernardbad" target='_blank'>
     <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/>
   </a>
 </div>
