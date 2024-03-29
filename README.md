@@ -10,7 +10,8 @@ I'm using HTML, CSS, and JavaScript to make websites dance. 🕺🏽
   <img src="https://img.shields.io/badge/php-%2320232a.svg?style=for-the-badge&logo=php&logoColor=%2361DAFB" alt="Php"/>
   <img src="https://img.shields.io/badge/codeigniter-%2320232a.svg?style=for-the-badge&logo=codeigniter&logoColor=%2361DAFB" alt="codeigniter/>
   <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
-  <img src=" https://img.shields.io/badge/Javascript-%2320232a.svg?style=for-the-badge&logo=Javascript&logoColor=%2361DAFB" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/Javascript-%2320232a.svg?style=for-the-badge&logo=Javascript&logoColor=%2361DAFB" alt="TypeScript"/>
   <img src="https://img.shields.io/badge/Gatsby-%23663399.svg?style=for-the-badge&logo=gatsby&logoColor=white" alt="Gatsby"/>
   <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next JS"/>
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS"/>
