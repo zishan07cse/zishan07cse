@@ -31,7 +31,7 @@ I'm using HTML, CSS, and JavaScript to make websites dance. 🕺🏽
 <div display="flex">
   <img src="https://img.shields.io/badge/nodejs-2F3134?style=for-the-badge&logo=nodejs&logoColor=white" alt="Nodejs"/>
   <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>
-  <img src="https://img.shields.io/badge/Docker?style=for-the-badge&logo=Docker&logoColor=white" alt="Docker""/>
+  <img src="https://img.shields.io/badge/Docker-%2320232a.svg?style=for-the-badge&logo=Docker&logoColor=%2361DAFB alt="Docker""/>
 
 </div>
 
