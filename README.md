@@ -24,7 +24,6 @@ I'm using HTML, CSS, and JavaScript to make websites dance. 🕺🏽
 ### 🔭 I’m working on
 
 - Projects for freelance clients.
-- Growing [Upbeat Code](https://www.upbeatcode.com) to 100k/month visitors.
 
 ### 🌱 I’m learning
 
