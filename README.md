@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm using HTML, CSS, and JavaScript to make websites dance. 🕺🏽
+I'm using HTML, CSS, and JavaScript,React,Typescript to make websites dance. 🕺🏽
 
 **I love working with**
 
