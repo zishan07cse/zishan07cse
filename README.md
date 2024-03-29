@@ -15,6 +15,7 @@ I'm using HTML, CSS, and JavaScript to make websites dance. 🕺🏽
      <img src="https://img.shields.io/badge/jQuery-%23663399.svg?style=for-the-badge&logo=jQuery&logoColor=white" alt="jQuery"/>
   <img src="https://img.shields.io/badge/html5-%23663399.svg?style=for-the-badge&logo=html5&logoColor=white" alt="html5"/>
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS"/>
+  <img src="https://img.shields.io/badge/mysql-%231572B6.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="Mysql"/>
 
 </div>
 
