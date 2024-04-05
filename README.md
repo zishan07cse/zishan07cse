@@ -52,6 +52,9 @@ I'm using HTML, CSS, and JavaScript,React,Typescript to make websites dance. �
   </a>
 </div>
 
+### 🔥My Stats
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=zishan07cse)](https://git.io/streak-stats)
+
 ### ⚡ Fun fact
 
 I'm definitely not a cat person.
